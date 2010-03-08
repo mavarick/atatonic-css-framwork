@@ -79,7 +79,9 @@ footer,
 section, 
 aside, 
 nav, 
-article {
+article,
+figure,
+hgroup {
 	display: block !important;
 }
 
