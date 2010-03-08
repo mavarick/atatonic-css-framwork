@@ -95,7 +95,7 @@ blockquote {
 	border-left: 6px solid #ccc;
 	margin: 0 0 18px;
 	padding: 9px;
-	quotes: "“" "”" "‘" "’";
+	quotes: """ """ "'" "'";
 	color: #333;
 	font-family: Georgia, "Times new roman", serif;
 	font-size: 13px;
@@ -138,6 +138,7 @@ pre, code {
 	font-weight: normal;
 	line-height: inherit;
 }
+
 
 /*	Buttons
 -------------------------------------------------------------- */
